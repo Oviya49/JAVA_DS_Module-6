@@ -11,8 +11,10 @@ To write a Java program to Count how many times a number appears in an array rec
 5. Return the final count to the main program and print how many times key appears in the array.   
 
 ## Program:
+```
 Developed by: OVIYA N
 RegisterNumber: 212223040140
+```
 ```
 import java.util.Scanner;
 
