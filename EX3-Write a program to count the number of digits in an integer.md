@@ -12,8 +12,11 @@ To write a C program to implement Tower of Hanoi
  
 
 ## Program:
+```
 Developed by: OVIYA N
 RegisterNumber: 212223040140
+```
+
 ```
 import java.util.Scanner;
 
